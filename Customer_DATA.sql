@@ -18,7 +18,6 @@ FROM products
 GROUP BY category
 ORDER BY average_cost DESC;
 
-
 SELECT category, SUM(sales_amount) AS total_sales
 from sales
 left join products on sales.product_key = products.product_key
