@@ -1,4 +1,4 @@
-# ROBUST CYCLING DATA ANALYSIS - SQL data analysis project
+# ROBUST CYCLING - SQL data analysis project
 
 A full SQL Server project exploratory data analysis, advanced analysis and reporing.
 
