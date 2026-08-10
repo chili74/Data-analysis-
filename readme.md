@@ -66,14 +66,19 @@ Examples: Top products, top customers, least-revenue products
 Value: Prioritize investments and improvement efforts.
 
 7.Change over time advanced analysis
+Goal: Scope the sales over time 
 
 8.Cumulative advanced analysis
+Goal: Identify the speed of the sale running total
 
 9.Performance advanced analysis
+Goal: 
 
 10.Part-to-whole advanced analysis
+Goal:
 
 11.Data segmentation advanced analysis
+Goal:
 
 Key Business Insights
 
