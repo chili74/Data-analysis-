@@ -5,6 +5,12 @@ A full SQL Server project exploratory data analysis, advanced analysis and repor
 ## Overview 
 This project explores, cleans and analysis the data of a cycling store named Robust Cycling  demonstrating a practical, structured approach to Exploratory and Advanced Data Analysis using SQL Server and SSMS. Its goal is to turn raw relational data into business-ready insights by answering core analytical questions with SQL queries.
 
+## Raw material 
+
+- Customer.csv
+- Products.csv
+- Sales.csv
+
 ## Objectives
 -Inspect database structure and metadata.
 -Identify categorical dimensions and numerical measures.
